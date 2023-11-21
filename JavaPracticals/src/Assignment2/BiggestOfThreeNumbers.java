@@ -6,9 +6,9 @@ public class BiggestOfThreeNumbers {
 	{
 		// TODO Auto-generated method stub
 		int x,y,z;
-		x=10;
-		y=20;
-		z=50;
+		x=100;
+		y=205;
+		z=520;
 		if(x >=y)
 		{
 			System.out.println("biggest number is "+x);
