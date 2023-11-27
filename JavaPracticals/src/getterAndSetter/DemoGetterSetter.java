@@ -25,7 +25,7 @@ public class DemoGetterSetter
 				demoGS obj = new demoGS();
 				
 				obj.setName("lavanya");
-				obj.getName();
+				System.out.println(obj.getName());
 				
 			}
 
